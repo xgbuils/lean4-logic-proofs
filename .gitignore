@@ -1,0 +1,11 @@
+# Dependencias de Node
+node_modules/
+
+# Archivos de compilación de Lean / Lake
+.lake/
+lake-packages/
+lakefile.olean
+
+# Sistema operativo y entorno
+.DS_Store
+Thumbs.db
